@@ -1,0 +1,4 @@
+betsy   4
+nick    5
+henry   8
+bart    10
